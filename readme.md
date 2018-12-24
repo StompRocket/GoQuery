@@ -2,7 +2,7 @@
 
 ```go
 import (
-    . "github.com/StompRocket/GoQuery"
+    . "github.com/StompRocket/GoQuery/goquery"
 )
 
 func main() {
