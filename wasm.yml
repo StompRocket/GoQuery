@@ -1,3 +1,9 @@
+# This yaml file contains the build instructions for this
+# example. Use `go-wasm` to build. You can install it by
+# running `go {get,install} github.com/swissChili/go-wasm`
+# `export PATH=$PATH:$GOPATH/bin` to add it to your $PATH
+# and running `go-wasm` to build and serve this project.
+
 # directory to use as static dir for HTML
 static: static
 # Go files to build
